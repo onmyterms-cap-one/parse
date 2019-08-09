@@ -1,0 +1,181 @@
+{
+  "alexa": 748,
+  "class": false,
+  "links": {},
+  "points": [
+    "5390",
+    "5395",
+    "5396",
+    "5397",
+    "5401",
+    "5402",
+    "5410",
+    "5414"
+  ],
+  "pointsData": {
+    "5390": {
+      "id": "5390",
+      "needModeration": false,
+      "quoteDoc": "Cookie Policy",
+      "quoteEnd": 1318,
+      "quoteStart": 1169,
+      "quoteText": "<p>ASKfm uses cookies and similar technologies, such as web beacons or pixel tags, to deliver, measure, and improve our services in various ways.</p>",
+      "services": [
+        "ask"
+      ],
+      "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5395": {
+      "id": "5395",
+      "needModeration": false,
+      "quoteDoc": "Cookie Policy",
+      "quoteEnd": 6421,
+      "quoteStart": 6233,
+      "quoteText": "we do not currently recognize or respond to browser-initiated Do Not Track signals, as the internet industry is still working on Do Not Track standards, implementations, and solutions.</p>",
+      "services": [
+        "ask"
+      ],
+      "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+        "point": "bad",
+        "score": 60,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5396": {
+      "id": "5396",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 2601,
+      "quoteStart": 2256,
+      "quoteText": "<p>Sorry, but you can’t use ASKfm if you are under 13 years old.\nIf you are under 13 years of age, you are not permitted to access or use the Services.\nIf we become aware that you are using the Services even though you are under 13 and not permitted to do so, we will deactivate your account and attempt to block you from accessing the Services.",
+      "services": [
+        "ask"
+      ],
+      "title": "This service is only available to users of a certain age",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service is only available to users of a certain age",
+        "point": "neutral",
+        "score": 15,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5397": {
+      "id": "5397",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 5135,
+      "quoteStart": 4370,
+      "quoteText": "You must keep your password confidential and, other than sharing it with your parent or guardian if you are a minor, you should not tell anyone your password or let anyone else access your account.\n(Parents and guardians might also find some useful information here).\nSharing your password might lead to all of your posts, messages and personal information being leaked or someone impersonating or pretending to be you.\nIf you don’t keep your password confidential or give it to anyone other than your parent or guardian, we are not responsible for anyone accessing or using your account, including reading or sending messages from it.\nIf you think that someone else might be using your account, you must let us know immediately using the contact information below.",
+      "services": [
+        "ask"
+      ],
+      "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "You are responsible for maintaining the security of your account and for the activities on your account",
+        "point": "neutral",
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5401": {
+      "id": "5401",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 32271,
+      "quoteStart": 32123,
+      "quoteText": "<p>YOU ACKNOWLEDGE AND AGREE THAT THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK.",
+      "services": [
+        "ask"
+      ],
+      "title": "The service is provided 'as is' and to be used at the users' sole risk",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service is provided 'as is' and to be used at the users' sole risk",
+        "point": "bad",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5402": {
+      "id": "5402",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 15187,
+      "quoteStart": 14852,
+      "quoteText": "ALL SALES ARE FINAL.\nYOU ACKNOWLEDGE THAT NEITHER WE NOR ANY APP STORE PROVIDER IS REQUIRED TO PROVIDE A REFUND FOR ANY REASON, AND THAT YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR UNUSED IN-APP PURCHASES WHEN AN ACCOUNT IS CLOSED, WHETHER SUCH CLOSURE WAS VOLUNTARY OR INVOLUNTARY UNLESS OTHERWISE REQUIRED BY APPLICABLE LAW.",
+      "services": [
+        "ask"
+      ],
+      "title": "no refund policy",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service has a no refund policy",
+        "point": "neutral",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5410": {
+      "id": "5410",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 18502,
+      "quoteStart": 18179,
+      "quoteText": "In order to respond to the claims of violation of the rights of third parties and/or to protect the rights, property, and safety of ASKfm, our employees, Registered and Guest Users, or the public.\nThis may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations",
+      "services": [
+        "ask"
+      ],
+      "title": "This service can share your personal information to third parties ",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service can share your personal information to third parties ",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5414": {
+      "id": "5414",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 18733,
+      "quoteStart": 18509,
+      "quoteText": "<li>As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets.\nIn such transactions, user information may be among the transferred assets",
+      "services": [
+        "ask"
+      ],
+      "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "ask.fm"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "alexa": 5,
+  "class": false,
+  "links": {
+    "Privacy Policy": {
+      "name": "Privacy Policy",
+      "url": "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "Terms of Use": {
+      "name": "Terms of Use",
+      "url": "https://wikimediafoundation.org/wiki/Terms_of_Use"
+    },
+    "terms": {
+      "name": "Terms of use",
+      "url": "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "points": [
+    "1041",
+    "1345",
+    "1376",
+    "1476",
+    "1603",
+    "4935",
+    "4936",
+    "5983",
+    "825"
+  ],
+  "pointsData": {
+    "825": {
+      "discussion": "https://groups.google.com/forum#!topic/tosdr/10XvYuC-JvA",
+      "id": "825",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 32279,
+      "quoteStart": 31998,
+      "quoteText": "In certain (hopefully unlikely) circumstances it may be necessary for either ourselves or the Wikimedia community or its members (as described in Section 10) to terminate part or all of our services, terminate these Terms of Use, block your account or access, or ban you as a user.",
+      "services": [
+        "wikipedia"
+      ],
+      "slug": "10XvYuC-JvA",
+      "title": "Wikipedia can block your account",
+      "topics": [
+        "suspension"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "User suspension from the service will be fair and proportionate.",
+        "point": "good",
+        "score": 20,
+        "tldr": "In certain (hopefully unlikely) circumstances it may be necessary for either ourselves or the Wikimedia community or its members (as described in Section 10) to terminate part or all of our services, terminate these Terms of Use, block your account or access, or ban you as a user."
+      }
+    },
+    "1041": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/8muChbk0S-A/discussion",
+      "id": "1041",
+      "meta": {
+        "author": "Ian McGowan",
+        "contributors": [
+          "Logomancer <logomancer@gmail.com> "
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 18906,
+      "quoteStart": 18354,
+      "quoteText": "When you submit text to which you hold the copyright, you agree to license it under:\n<ul>\n<li>Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and</li>\n<li>GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).</li>\n</ul>\n<p>(Re-users may comply with either license or both.)</p>\n<p>The only exception is if the Project edition or feature requires a different license.\nIn that case, you agree to license any text you contribute under that particular license.",
+      "services": [
+        "wikipedia"
+      ],
+      "slug": "8muChbk0S-A",
+      "source": {
+        "terms": "https://wikimediafoundation.org/wiki/Terms_of_use#7._Licensing_of_Content"
+      },
+      "title": "You publish your contributions under free licenses",
+      "topics": [
+        "copyright-scope"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "Content is published under a free license instead of a bilateral one",
+        "point": "good",
+        "score": 90,
+        "tldr": "Wikipedia allows users to hold the copyright to any text that they submit under: Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts). However, both of these allow your contributions to be used commercially."
+      }
+    },
+    "1345": {
+      "discussion": "https://groups.google.com/forum#!topic/tosdr/bywdiMIibNU",
+      "id": "1345",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 9432,
+      "quoteStart": 8748,
+      "quoteText": "\n<b>You are responsible for your own actions:</b> You are legally responsible for your edits and contributions on Wikimedia Projects, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws.\nFor clarity, applicable law includes at least the laws of the United States of America.\nAlthough we may not agree with such actions, we warn editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content.\nWMF generally cannot offer any protection, guarantee, immunity or indemnification.</li>",
+      "services": [
+        "wikipedia"
+      ],
+      "slug": "bywdiMIibNU",
+      "title": "Wikipedia users responsible for their own contributions",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Users agree not to submit illegal content",
+        "point": "neutral",
+        "score": 10,
+        "tldr": "Wikipedia users responsible for their own contributions"
+      }
+    },
+    "1376": {
+      "discussion": "https://groups.google.com/forum#!topic/tosdr/738lihVOxHM",
+      "id": "1376",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 34014,
+      "quoteStart": 33354,
+      "quoteText": "If you seek to file a legal claim against us, you agree to file and resolve it exclusively in a state or federal court located in San Francisco County, California.\nYou also agree that the laws of the State of California and, to the extent applicable, the laws of the United States of America will govern these Terms of Use, as well as any legal claim that might arise between you and us (without reference to conflict of laws principles).\nYou agree to submit to the personal jurisdiction of, and agree that venue is proper in, the courts located in San Francisco County, California, in any legal action or proceeding relating to us or these Terms of Use.\n</p>\n",
+      "services": [
+        "wikipedia"
+      ],
+      "slug": "738lihVOxHM",
+      "title": "The court of law governing the terms is in San Francisco County, California",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The court of law governing the terms is in location X",
+        "point": "neutral",
+        "score": 0,
+        "tldr": ""
+      }
+    },
+    "1476": {
+      "discussion": "https://groups.google.com/forum#!topic/tosdr/iDEqzwR548w",
+      "id": "1476",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 37373,
+      "quoteStart": 37278,
+      "quoteText": "we believe that community input is essential for these Terms of Use to properly serve our users",
+      "services": [
+        "wikipedia"
+      ],
+      "slug": "iDEqzwR548w",
+      "title": "User feedback is invited regarding changes to the terms.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "User feedback is invited regarding changes to the terms.",
+        "point": "good",
+        "score": 30,
+        "tldr": "Wikipedia uses user feedback in ToS modifications"
+      }
+    },
+    "1603": {
+      "discussion": "https://groups.google.com/forum#!topic/tosdr/ZaQyu9E7MGU",
+      "id": "1603",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 36350,
+      "quoteStart": 36103,
+      "quoteText": "However, if we believe that a particular request for disclosure of a user's information is legally invalid or an abuse of the legal system and the affected user does not intend to oppose the disclosure themselves, we will try our best to fight it.",
+      "services": [
+        "wikipedia"
+      ],
+      "slug": "ZaQyu9E7MGU",
+      "title": "The service will resist legal requests for user information where reasonably possible",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service will resist legal requests for user information where reasonably possible",
+        "point": "good",
+        "privacyRelated": true,
+        "score": 60,
+        "tldr": "Wikipedia only discloses personal info by court order; attempts to notify users"
+      }
+    },
+    "4935": {
+      "id": "4935",
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 9805,
+      "quoteStart": 9581,
+      "quoteText": "Because our services are used by people all over the world, personal information that we collect may be stored and processed in the United States of America or any other country in which we or our agents maintain facilities.",
+      "services": [
+        "wikipedia"
+      ],
+      "title": "Your data may be processed and stored anywhere in the world",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Your data may be processed and stored anywhere in the world",
+        "point": "bad",
+        "score": 25,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "4936": {
+      "id": "4936",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 32803,
+      "quoteStart": 32687,
+      "quoteText": "We reserve the right to suspend or end the services at any time, with or without cause, and with or without notice.\n",
+      "services": [
+        "wikipedia"
+      ],
+      "title": "The service can delete your account without prior notice and without a reason",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can delete your account without prior notice and without a reason",
+        "point": "bad",
+        "score": 60,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5983": {
+      "id": "5983",
+      "needModeration": false,
+      "quoteDoc": "Terms of Use",
+      "quoteEnd": 34789,
+      "quoteStart": 34725,
+      "quoteText": "We provide these services on an \"as is\" and \"as available\" basis",
+      "services": [
+        "wikipedia"
+      ],
+      "title": "The service is provided 'as is' and to be used at the users' sole risk",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service is provided 'as is' and to be used at the users' sole risk",
+        "point": "bad",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "wikipedia.org"
+  ]
+}

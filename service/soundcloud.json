@@ -1,0 +1,360 @@
+{
+  "alexa": 106,
+  "class": "B",
+  "links": {
+    "Community Guidelines": {
+      "name": "Community Guidelines",
+      "url": "https://soundcloud.com/community-guidelines"
+    },
+    "Privacy Policy": {
+      "name": "Privacy Policy",
+      "url": "https://soundcloud.com/pages/privacy"
+    },
+    "Terms of Service": {
+      "name": "Terms of Service",
+      "url": "https://soundcloud.com/terms-of-use"
+    }
+  },
+  "points": [
+    "609",
+    "629",
+    "6635",
+    "6636",
+    "6637",
+    "6638",
+    "6639",
+    "6640",
+    "685",
+    "696",
+    "816",
+    "975"
+  ],
+  "pointsData": {
+    "609": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/fmlKouXKUcc/discussion",
+      "id": "609",
+      "meta": {
+        "author": "ToS;DR by Unhosted",
+        "contributors": [
+          "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "services": [
+        "soundcloud"
+      ],
+      "slug": "fmlKouXKUcc",
+      "source": {
+        "terms": "http://soundcloud.com/terms-of-use"
+      },
+      "title": "The terms are easy to read",
+      "topics": [
+        "readability"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "The terms for this service are easy to read",
+        "point": "good",
+        "score": 15,
+        "tldr": "SoundCloud provides an index describing what each section is about. Thus, you can easily identify which sections you care about and jump directly to these sections."
+      }
+    },
+    "629": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/n_DCnOwcIo0/discussion",
+      "id": "629",
+      "meta": {
+        "author": "ToS;DR by Unhosted",
+        "contributors": [
+          "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 47733,
+      "quoteStart": 46670,
+      "quoteText": "You hereby agree to indemnify, defend and hold harmless SoundCloud, its successors, assigns, affiliates, agents, directors, officers, employees and shareholders from and against any and all claims, obligations, damages, losses, expenses, and costs, including reasonable attorneys' fees, resulting from:</p>\n<p>(i) any violation by you of these Terms of Use or our Community Guidelines;</p>\n<p>(ii) any third party claim of infringement of copyright or other intellectual property rights or invasion of privacy arising from the hosting of Your Content on the Platform, and/or your making available thereof to other users of the Platform, and/or the actual use of Your Content by other users of the Platform or Linked Services in accordance with these Terms of Use and the parameters set by you with respect to the distribution and sharing of Your Content;</p>\n<p>(iii) any activity related to your account, be it by you or by any other person accessing your account with or without your consent unless such activity was caused by the act or default of SoundCloud.<",
+      "services": [
+        "soundcloud"
+      ],
+      "slug": "n_DCnOwcIo0",
+      "source": {
+        "terms": "http://soundcloud.com/terms-of-use#indemnification"
+      },
+      "title": "Indemnification from claims related to your content or your account",
+      "topics": [
+        "governance"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.",
+        "point": "bad",
+        "score": 40,
+        "tldr": "You agree to indemnify SoundCloud from all claims resulting from any third party for infringement of copyright or invastion of privacy related to your content or any activity related to your account. "
+      }
+    },
+    "685": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/_gI8wQ3PZ2M/discussion",
+      "id": "685",
+      "meta": {
+        "author": "ToS;DR by Unhosted",
+        "contributors": [
+          "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 26620,
+      "quoteStart": 25499,
+      "quoteText": "To the extent it is necessary in order for SoundCloud to provide you with any of the aforementioned hosting services, to undertake any of the tasks set forth in these Terms of Use, including the distribution of advertising or other promotional material on our Platform and/or to enable your use of the Platform, you hereby grant such licenses to SoundCloud on a limited, worldwide, non-exclusive, royalty-free and fully paid basis.</p>\n<p>By uploading Your Content to the Platform, you also grant a limited, worldwide, non-exclusive, royalty-free, fully paid up, license to other users of the Platform, and to operators and users of any other websites, apps and/or platforms to which Your Content has been shared or embedded using the Services (<strong>“Linked Services”</strong>), to use, copy, listen to offline, repost, transmit or otherwise distribute, publicly display, publicly perform, adapt, prepare derivative works of, compile, make available and otherwise communicate to the public, Your Content utilizing the features of the Platform from time to time, and within the parameters set by you using the Services.",
+      "services": [
+        "soundcloud"
+      ],
+      "slug": "_gI8wQ3PZ2M",
+      "source": {
+        "terms": "http://soundcloud.com/terms-of-use#license"
+      },
+      "title": "You stay in control of your copyright",
+      "topics": [
+        "copyright-scope"
+      ],
+      "tosback2-data": {
+        "terms": {
+          "extracted": "By uploading or posting Your Content to the Platform, you initiate an automated process to transcode any audio Content and direct SoundCloud to store Your Content on our servers, from where you may control and authorise the use, reproduction, transmission, distribution, public display, public performance, making available and other communication to the public of Your Content on the Platform and elsewhere using the Services. To the extent it is necessary in order for SoundCloud to provide you with any of the aforementioned hosting services, to undertake any of the tasks set forth in these Terms of Use and/or to enable your use of the Platform, you hereby grant such licences to SoundCloud on a limited, worldwide, non-exclusive, royalty-free and fully paid basis.<br />By uploading Your Content to the Platform, you also grant a limited, worldwide, non-exclusive, royalty-free, fully paid up, licence to other users of the Platform, and to users of any other websites, apps and/or platforms to which Your Content has been shared or embedded using the Services (“Linked Services”), to use, copy, transmit or otherwise distribute, publicly display, publicly perform, prepare derivative works of, make available and otherwise communicate to the public Your Content within the parameters set by you using the Services. You can limit and restrict the availability of certain of Your Content to other users of the Platform, and to users of Linked Services, at any time using the settings on the sound page for each sound you upload, subject to the provisions of the Disclaimer section below.<br />The licences granted in this section are granted separately with respect to each item of Your Content that you upload to the Platform. Licences with respect to audio Content, and any images or text within your account, will (subject to the following paragraph of these Terms of Use) terminate automatically when you remove such Content from your account. Licences with respect to comments or other contributions that you make on the Website will be perpetual and irrevocable, and will continue notwithstanding any termination of your account."
+        }
+      },
+      "tosdr": {
+        "binding": true,
+        "case": "Users are free to choose the type of copyright license that they want to use over their content",
+        "point": "good",
+        "score": 50,
+        "tldr": "You only grant to SoundCloud the rights necessary to operate the services. You grant to the public the rights to listen and to share your tracks “within the parameters set by you” for each track. You can also publish easily your tracks under a Creative Commons license of your choice."
+      }
+    },
+    "696": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/3f3dVPCa1GU/discussion",
+      "id": "696",
+      "meta": {
+        "author": "ToS;DR by Unhosted",
+        "contributors": [
+          "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 29130,
+      "quoteStart": 28774,
+      "quoteText": "Change of Control</strong> – We may also share your personal data as part of a sale, merger or change in control of SoundCloud, or in preparation for any of these events.\nAny other entity that buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise.",
+      "services": [
+        "soundcloud"
+      ],
+      "slug": "3f3dVPCa1GU2",
+      "source": {
+        "privacy": "http://soundcloud.com/pages/privacy#information"
+      },
+      "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+      "topics": [
+        "business-transfer"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+        "point": "bad",
+        "score": 50,
+        "tldr": "SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”"
+      }
+    },
+    "816": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/ps1ZppOOWmM/discussion",
+      "id": "816",
+      "meta": {
+        "author": "ToS;DR by Unhosted",
+        "contributors": [
+          "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 60509,
+      "quoteStart": 60275,
+      "quoteText": "this Agreement is subject to the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG) and excluding the principles of conflict of laws (international private law)",
+      "services": [
+        "soundcloud"
+      ],
+      "slug": "ps1ZppOOWmM",
+      "source": {
+        "terms": "http://soundcloud.com/terms-of-use#applicable_law"
+      },
+      "title": "SoundCloud's jurisdiction is in Germany",
+      "topics": [
+        "jurisdiction-law"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "The court of law governing the terms is in location X",
+        "point": "neutral",
+        "score": 0,
+        "tldr": "See excerpt."
+      }
+    },
+    "975": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/Q1oDK4mAvuw/discussion",
+      "id": "975",
+      "meta": {
+        "author": "ToS;DR by Unhosted",
+        "contributors": [
+          "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+        "spec-version": "1.1"
+      },
+      "needModeration": false,
+      "quoteDoc": "Community Guidelines",
+      "quoteEnd": 3105,
+      "quoteStart": 2864,
+      "quoteText": "As a platform built with creator needs in mind, we welcome the use of stage names or professional identities on SoundCloud.\nHowever, that doesn’t mean that you can impersonate another person, or post content that is intentionally misleading.",
+      "services": [
+        "soundcloud"
+      ],
+      "slug": "pseudos-allowed-soundcloud",
+      "title": "Pseudonyms allowed",
+      "topics": [
+        "track"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "The service allows you to use pseudonyms",
+        "point": "good",
+        "score": 20,
+        "tldr": "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
+      }
+    },
+    "6635": {
+      "id": "6635",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 3941,
+      "quoteStart": 3726,
+      "quoteText": "Repeat infringers\nUsers who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud® accounts suspended or terminated, as explained in this section.</p>",
+      "services": [
+        "soundcloud"
+      ],
+      "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+        "point": "good",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6636": {
+      "id": "6636",
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 23561,
+      "quoteStart": 23226,
+      "quoteText": "We share the data collected about you, generally in hashed, aggregated, or de-identified forms with advertisers and advertising service providers and business partners in order to serve ads based on your interests and measure the reach and effectiveness of those ads, including whether a user took an action (e.g.\npurchase a product).\n",
+      "services": [
+        "soundcloud"
+      ],
+      "title": "Your personal data is given to third parties",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Your personal data is given to third parties",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6637": {
+      "id": "6637",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 19179,
+      "quoteStart": 18987,
+      "quoteText": "that promotes or incites violence, terrorism, illegal acts, or hatred on the grounds of race, ethnicity, cultural identity, religious belief, disability, gender, identity or sexual orientation",
+      "services": [
+        "soundcloud"
+      ],
+      "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+        "point": "neutral",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6638": {
+      "id": "6638",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 18960,
+      "quoteStart": 18714,
+      "quoteText": "You must not use the Platform to upload, post, store, transmit, display, copy, distribute, promote, make available, continue to make available or otherwise communicate to the public:</p>\n<ul>\n<li>any Content that is abusive, libellous, defamatory",
+      "services": [
+        "soundcloud"
+      ],
+      "title": "Users agree not to submit libelous, harassing or threatening content",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Users agree not to submit libelous, harassing or threatening content",
+        "point": "neutral",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6639": {
+      "id": "6639",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 18986,
+      "quoteStart": 18960,
+      "quoteText": ", pornographic or obscene,",
+      "services": [
+        "soundcloud"
+      ],
+      "title": "Prohibits the posting of pornographic content",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Prohibits the posting of pornographic content",
+        "point": "neutral",
+        "score": 15,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6640": {
+      "id": "6640",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 41601,
+      "quoteStart": 41371,
+      "quoteText": "THE PLATFORM, INCLUDING, WITHOUT LIMITATION, THE WEBSITE, THE APPS AND ALL CONTENT AND SERVICES ACCESSED THROUGH OR VIA THE WEBSITE, THE APPS, THE SERVICES OR OTHERWISE, ARE PROVIDED “AS IS”, “AS AVAILABLE”, AND “WITH ALL FAULTS”.",
+      "services": [
+        "soundcloud"
+      ],
+      "title": "The service is provided 'as is' and to be used at the users' sole risk",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service is provided 'as is' and to be used at the users' sole risk",
+        "point": "bad",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "soundcloud.com"
+  ]
+}

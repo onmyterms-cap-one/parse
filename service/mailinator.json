@@ -1,0 +1,118 @@
+{
+  "alexa": 30914,
+  "class": false,
+  "links": {},
+  "points": [
+    "5274",
+    "5276",
+    "5278",
+    "5283",
+    "5285"
+  ],
+  "pointsData": {
+    "5274": {
+      "id": "5274",
+      "needModeration": false,
+      "quoteDoc": "TERMS OF SERVICE AND PRIVACY POLICY + COOKIE/INFORMATION POLICY",
+      "quoteEnd": 6885,
+      "quoteStart": 6786,
+      "quoteText": "Blocking or deleting cookies may prevent you from taking full advantage of the Mailinator platform.",
+      "services": [
+        "mailinator"
+      ],
+      "title": "Blocking cookies may limit your ability to use the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Blocking cookies may limit your ability to use the service",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5276": {
+      "id": "5276",
+      "needModeration": false,
+      "quoteDoc": "TERMS OF SERVICE AND PRIVACY POLICY + COOKIE/INFORMATION POLICY",
+      "quoteEnd": 1266,
+      "quoteStart": 1189,
+      "quoteText": "Mailinator's features, availability, or existence may be removed at any time.",
+      "services": [
+        "mailinator"
+      ],
+      "title": "They may stop providing the service at any time",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "They may stop providing the service at any time",
+        "point": "bad",
+        "score": 40,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5278": {
+      "id": "5278",
+      "needModeration": false,
+      "quoteDoc": "TERMS OF SERVICE AND PRIVACY POLICY + COOKIE/INFORMATION POLICY",
+      "quoteEnd": 1740,
+      "quoteStart": 1659,
+      "quoteText": " You agree to not use Mailinator directly or indirectly for any unlawful purpose.",
+      "services": [
+        "mailinator"
+      ],
+      "title": "Users agree not to use the service for illegal purposes",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Users agree not to use the service for illegal purposes",
+        "point": "neutral",
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5283": {
+      "id": "5283",
+      "needModeration": false,
+      "quoteDoc": "TERMS OF SERVICE AND PRIVACY POLICY + COOKIE/INFORMATION POLICY",
+      "quoteEnd": 4493,
+      "quoteStart": 4232,
+      "quoteText": "Manybrain, Inc.\nmay use your personal information to contact you with newsletters, promotional material or company updates that may affect you, such as updates to its Terms of Service and Privacy Policy.\nYou may unsubscribe at any time from any of these emails.",
+      "services": [
+        "mailinator"
+      ],
+      "title": "You can opt out of promotional communications",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "You can opt out of promotional communications",
+        "point": "good",
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5285": {
+      "id": "5285",
+      "needModeration": false,
+      "quoteDoc": "TERMS OF SERVICE AND PRIVACY POLICY + COOKIE/INFORMATION POLICY",
+      "quoteEnd": 5161,
+      "quoteStart": 5045,
+      "quoteText": "To learn more about how Stripe handles personal information please view its Terms and Conditions and Privacy Policy.",
+      "services": [
+        "mailinator"
+      ],
+      "title": "The service refers users to external documents for more information",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service refers users to external documents for more information",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 25,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "mailinator.com"
+  ]
+}

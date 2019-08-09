@@ -1,0 +1,121 @@
+{
+  "alexa": 150,
+  "class": false,
+  "links": {
+    "Privacy Policy": {
+      "name": "Privacy Policy",
+      "url": "http://www.mozilla.org/about/policies/privacy-policy.html"
+    }
+  },
+  "points": [
+    "6240",
+    "6242",
+    "6310",
+    "6313",
+    "6314"
+  ],
+  "pointsData": {
+    "6240": {
+      "id": "6240",
+      "quoteDoc": "Privacy policy",
+      "quoteEnd": 43,
+      "quoteStart": 27,
+      "quoteText": "May 25, 2018</p>",
+      "services": [
+        "mozilla-org"
+      ],
+      "title": "There is a date of the last update of the terms",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "There is a date of the last update of the terms",
+        "point": "neutral",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6242": {
+      "id": "6242",
+      "quoteDoc": "Privacy policy",
+      "quoteEnd": 4915,
+      "quoteStart": 4683,
+      "quoteText": "We may need to change this policy and our notices.\nThe updates will be posted online.\nIf the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums.",
+      "services": [
+        "mozilla-org"
+      ],
+      "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service may change its terms at any time, but the user will receive notification of the changes.",
+        "point": "neutral",
+        "score": 0,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6310": {
+      "id": "6310",
+      "needModeration": false,
+      "quoteDoc": "Privacy policy",
+      "quoteEnd": 3142,
+      "quoteStart": 2963,
+      "quoteText": "\n<li>If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.</li>",
+      "services": [
+        "mozilla-org"
+      ],
+      "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6313": {
+      "id": "6313",
+      "needModeration": false,
+      "quoteDoc": "Website Privacy policy",
+      "quoteEnd": 7009,
+      "quoteStart": 6831,
+      "quoteText": "\nIf you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the Metrics section.</p>\n",
+      "services": [
+        "mozilla-org"
+      ],
+      "title": "This service respects your browser's Do Not Track (DNT) headers",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service respects your browser's Do Not Track (DNT) headers",
+        "point": "good",
+        "privacyRelated": true,
+        "score": 30,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6314": {
+      "id": "6314",
+      "needModeration": false,
+      "quoteDoc": "Website Privacy policy",
+      "quoteEnd": 6695,
+      "quoteStart": 6581,
+      "quoteText": "\nNote that certain features of our products and services may not function properly without the aid of cookies.</p>",
+      "services": [
+        "mozilla-org"
+      ],
+      "title": "Blocking cookies may limit your ability to use the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Blocking cookies may limit your ability to use the service",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "mozilla.org"
+  ]
+}

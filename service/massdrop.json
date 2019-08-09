@@ -1,0 +1,162 @@
+{
+  "alexa": 3137,
+  "class": false,
+  "links": {},
+  "points": [
+    "5373",
+    "5374",
+    "5375",
+    "5378",
+    "5380",
+    "5386",
+    "5388"
+  ],
+  "pointsData": {
+    "5373": {
+      "id": "5373",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 23544,
+      "quoteStart": 23320,
+      "quoteText": "We also use clear gifs in HTML-based emails sent to our Customers to track which emails are opened and which links are clicked by recipients.\nThe information allows for more accurate reporting and improvement of our Service.",
+      "services": [
+        "massdrop"
+      ],
+      "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5374": {
+      "id": "5374",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 24241,
+      "quoteStart": 24159,
+      "quoteText": "We are unable to respond to Do Not Track signals set by your browser at this time.",
+      "services": [
+        "massdrop"
+      ],
+      "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+        "point": "bad",
+        "score": 60,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5375": {
+      "id": "5375",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 5526,
+      "quoteStart": 5115,
+      "quoteText": "From time to time, we may receive information about you from third parties and other users:</p>\n<p>\n<strong>Information obtained from third parties.</strong> We may obtain information from third parties to enhance or supplement our existing user information.\nWe may also collect information about you that is publicly available.\nWe may combine this information with the information we collect from you directly.",
+      "services": [
+        "massdrop"
+      ],
+      "title": "Your profile is combined across various products",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Your profile is combined across various products",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5378": {
+      "id": "5378",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 21198,
+      "quoteStart": 20946,
+      "quoteText": "You acknowledge and agree that Massdrop may, in its sole discretion, modify, add or remove any portion of these Terms of Service at any time and in any manner, including the terms of Massdrop membership, by posting revised Terms of Service on the Site.",
+      "services": [
+        "massdrop"
+      ],
+      "title": " Terms may be changed any time at their discretion, without notice to the user ",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": " Terms may be changed any time at their discretion, without notice to the user ",
+        "point": "bad",
+        "score": 70,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5380": {
+      "id": "5380",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 5572,
+      "quoteStart": 5291,
+      "quoteText": "Massdrop reserves the right to refuse or cancel any person’s registration for this Site, remove any person from this Site and prohibit any person from using this Site for any reason whatsoever, and to limit or terminate your access to or use of the Site at any time without notice.",
+      "services": [
+        "massdrop"
+      ],
+      "title": "The service can delete your account without prior notice and without a reason",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can delete your account without prior notice and without a reason",
+        "point": "bad",
+        "score": 60,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5386": {
+      "id": "5386",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 14064,
+      "quoteStart": 13834,
+      "quoteText": "You agree to accept responsibility for all activities that occur under your account or password.\nYou are responsible for maintaining the confidentiality of your account and password, and for restricting access to your account.</p>",
+      "services": [
+        "massdrop"
+      ],
+      "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "You are responsible for maintaining the security of your account and for the activities on your account",
+        "point": "neutral",
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5388": {
+      "id": "5388",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 20568,
+      "quoteStart": 20285,
+      "quoteText": "Massdrop is under no obligation to review any content (including any messages) posted on or sent through the Site by users and assumes no responsibility or liability relating to any such content.\nMassdrop, in its sole discretion, may monitor, not post or remove any such content.</p>",
+      "services": [
+        "massdrop"
+      ],
+      "title": "The service can read your private messages",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can read your private messages",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 70,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "massdrop.com"
+  ]
+}

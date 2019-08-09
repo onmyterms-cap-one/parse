@@ -1,0 +1,96 @@
+{
+  "alexa": 58540,
+  "class": false,
+  "links": {},
+  "points": [
+    "5497",
+    "5498",
+    "5500",
+    "5502"
+  ],
+  "pointsData": {
+    "5497": {
+      "id": "5497",
+      "needModeration": false,
+      "quoteDoc": "Terms (Version 1.0; Dec 1, 2016) [Pastebin mirror]",
+      "quoteEnd": 2526,
+      "quoteStart": 2204,
+      "quoteText": "ARBITRATION NOTICE: UNLESS YOU OPT-OUT AND/OR EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND KITSU, INC.\nWILL BE RESOLVED BY MANDATORY, BINDING ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.",
+      "services": [
+        "kitsu"
+      ],
+      "title": "This service forces users into binding arbitration in the case of disputes",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service forces users into binding arbitration in the case of disputes",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5498": {
+      "id": "5498",
+      "needModeration": false,
+      "quoteDoc": "Terms (Version 1.0; Dec 1, 2016) [Pastebin mirror]",
+      "quoteEnd": 70,
+      "quoteStart": 41,
+      "quoteText": "Version 1.0, December 1, 2016",
+      "services": [
+        "kitsu"
+      ],
+      "title": "There is a date of the last update of the terms",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "There is a date of the last update of the terms",
+        "point": "neutral",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5500": {
+      "id": "5500",
+      "needModeration": false,
+      "quoteDoc": "Terms (Version 1.0; Dec 1, 2016) [Pastebin mirror]",
+      "quoteEnd": 29386,
+      "quoteStart": 29200,
+      "quoteText": "You may not post violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic or sexually suggestive photos or other similar content via the Kitsu Services.",
+      "services": [
+        "kitsu"
+      ],
+      "title": "Prohibits the posting of pornographic content",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Prohibits the posting of pornographic content",
+        "point": "neutral",
+        "score": 15,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5502": {
+      "id": "5502",
+      "needModeration": false,
+      "quoteDoc": "Terms (Version 1.0; Dec 1, 2016) [Pastebin mirror]",
+      "quoteEnd": 3321,
+      "quoteStart": 3134,
+      "quoteText": "Kitsu offers the Kitsu Services mainly for the use of individuals who are over the age of 13.\nContent made available through Kitsu Services may not always be age appropriate for children.",
+      "services": [
+        "kitsu"
+      ],
+      "title": "This service is only available to users of a certain age",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service is only available to users of a certain age",
+        "point": "neutral",
+        "score": 15,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "kitsu.io"
+  ]
+}

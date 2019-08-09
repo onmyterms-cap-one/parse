@@ -1,0 +1,106 @@
+{
+  "alexa": 310,
+  "class": false,
+  "links": {
+    "Privacy Policy": {
+      "name": "Privacy Policy",
+      "url": "http://www.goodreads.com/about/privacy"
+    }
+  },
+  "points": [
+    "1766",
+    "6602",
+    "6604",
+    "6607"
+  ],
+  "pointsData": {
+    "1766": {
+      "approved": false,
+      "id": "1766",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 14357,
+      "quoteStart": 14073,
+      "quoteText": "If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.\nChanges to this Privacy Policy are effective when they are posted on this page.",
+      "services": [
+        "goodreads"
+      ],
+      "slug": "odg2CqXAyMhFnARyA",
+      "submittedBy": "bW34fJJWxiqDJ4Kaq",
+      "title": "\"Goodreads does not notify you when they change their Privacy Policy.\"",
+      "topics": [
+        "changes-involvement"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "The service may change its terms at any time, but the user will receive notification of the changes.",
+        "point": "neutral",
+        "score": 0,
+        "sources": [
+          "https://www.goodreads.com/about/privacy#updates"
+        ],
+        "tldr": "If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. "
+      }
+    },
+    "6602": {
+      "id": "6602",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 14217,
+      "quoteStart": 13453,
+      "quoteText": "No Refunds.</strong> You may cancel your Goodreads Account at any time.\nhowever, there are no refunds for cancellation.\nAs permitted under the terms of\nthis Agreement, Goodreads has the right at any time for any reason or no reason\nto suspend or terminate your Account, terminate this Agreement, and/or refuse\nany and all current or future use of the Service without notice, refund,\nobligation, or liability to you.\nIn the event that Goodreads suspends or\nterminates your Goodreads Account or this Agreement, you understand and agree\nthat you shall receive no refund or exchange for any unused time on a subscription,\nany license or subscription fees for any portion of the Service, any content or\ndata associated with your Goodreads Account, or for anything else.",
+      "services": [
+        "goodreads"
+      ],
+      "title": "The service has a no refund policy",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service has a no refund policy",
+        "point": "neutral",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6604": {
+      "id": "6604",
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 2462,
+      "quoteStart": 2398,
+      "quoteText": "Terms of Use <p>\nThis Agreement was last revised on Dec 6, 2017.",
+      "services": [
+        "goodreads"
+      ],
+      "title": "There is a date of the last update of the terms",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "There is a date of the last update of the terms",
+        "point": "neutral",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "6607": {
+      "id": "6607",
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 2312,
+      "quoteStart": 2197,
+      "quoteText": "\nHowever, some features of the Service may not function properly if the ability to accept cookies is disabled.</p>\n",
+      "services": [
+        "goodreads"
+      ],
+      "title": "Blocking cookies may limit your ability to use the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Blocking cookies may limit your ability to use the service",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "goodreads.com"
+  ]
+}

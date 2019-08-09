@@ -1,0 +1,96 @@
+{
+  "alexa": 1000000,
+  "class": false,
+  "links": {},
+  "points": [
+    "5771",
+    "5773",
+    "5774",
+    "5775"
+  ],
+  "pointsData": {
+    "5771": {
+      "id": "5771",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 7140,
+      "quoteStart": 6702,
+      "quoteText": "Business Transfers <p>If Nabu Casa, Inc., or substantially all of its assets, were acquired, or in the unlikely event that Nabu Casa, Inc.\ngoes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party.\nYou acknowledge that such transfers may occur, and that any acquirer of Nabu Casa, Inc.\nmay continue to use your personal information as set forth in this policy.",
+      "services": [
+        "nabucasa"
+      ],
+      "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5773": {
+      "id": "5773",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 7614,
+      "quoteStart": 7553,
+      "quoteText": "Change log <ul>\n<li>September 16, 2018: Initial version</li>\n",
+      "services": [
+        "nabucasa"
+      ],
+      "title": "There is a date of the last update of the terms",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "There is a date of the last update of the terms",
+        "point": "neutral",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5774": {
+      "id": "5774",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 6697,
+      "quoteStart": 6406,
+      "quoteText": "Nabu Casa, Inc.\nvisitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Nabu Casa, Inc.’s websites, with the drawback that certain features of Nabu Casa, Inc.’s websites may not function properly without the aid of cookies.",
+      "services": [
+        "nabucasa"
+      ],
+      "title": "Blocking cookies may limit your ability to use the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Blocking cookies may limit your ability to use the service",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5775": {
+      "id": "5775",
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 4632,
+      "quoteStart": 3985,
+      "quoteText": "Protection of Certain Personally-Identifying Information <p>Nabu Casa, Inc.\ndiscloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Nabu Casa, Inc.’s behalf or to provide services available at Nabu Casa, Inc.’s websites, and (ii) that have agreed not to disclose it to others.\nSome of those employees, contractors and affiliated organizations may be located outside of your home country.\nby using Nabu Casa, Inc.’s websites, you consent to the transfer of such information to them.",
+      "services": [
+        "nabucasa"
+      ],
+      "title": "This service can share your personal information to third parties ",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service can share your personal information to third parties ",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "nabucasa.com",
+    "auth.nabucasa.com"
+  ]
+}

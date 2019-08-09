@@ -1,0 +1,53 @@
+{
+  "class": "A",
+  "links": {},
+  "points": [
+    "4389",
+    "4432"
+  ],
+  "pointsData": {
+    "4389": {
+      "id": "4389",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 1281,
+      "quoteStart": 1133,
+      "quoteText": "If you wish to access or export any of your personal data, then please contact us.\nYour data will be sent to the email provided within 24 hours.</p>",
+      "services": [
+        "windowslogicproductions"
+      ],
+      "title": "This service provides a way for you to export your data",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service provides a way for you to export your data",
+        "point": "good",
+        "score": 30,
+        "tldr": "This policy states; \"If you wish to access or export any of your personal data, then please contact us. Your data will be sent to the email provided within 24 hours.\" Contacting is made very easy with the inclusion of a form."
+      }
+    },
+    "4432": {
+      "id": "4432",
+      "needModeration": false,
+      "quoteDoc": "Privacy Policy",
+      "quoteEnd": 2496,
+      "quoteStart": 2452,
+      "quoteText": "We do not use cookies for tracking purposes.",
+      "services": [
+        "windowslogicproductions"
+      ],
+      "title": "Temporary session cookies",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service only uses temporary session cookies",
+        "point": "good",
+        "score": 20,
+        "tldr": "This point states; \"We do not use cookies for tracking purposes. \""
+      }
+    }
+  },
+  "urls": [
+    "windowslogic.co.uk"
+  ]
+}

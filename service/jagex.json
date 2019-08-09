@@ -1,0 +1,90 @@
+{
+  "alexa": 13641,
+  "class": false,
+  "links": {},
+  "points": [
+    "1038",
+    "1554",
+    "1649"
+  ],
+  "pointsData": {
+    "1038": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/WKXNggcJhIQ/discussion",
+      "id": "1038",
+      "needModeration": false,
+      "quoteDoc": "Terms and Conditions",
+      "quoteEnd": 3677,
+      "quoteStart": 2885,
+      "quoteText": "We may change these terms and conditions to reflect: (a) changes in applicable laws.\n(b) regulatory or security requirements.\n(c) relevant guidance or codes of practice.\n(d) technical alterations to Jagex Products.\nand (e) to improve clarity and consistency.</p>\n<p>Please check the terms and conditions whenever you use a Jagex Product.\nIf you are not a Subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date (as shown above).\nIf you are a Subscriber, we will treat the first renewal date of your subscription after the changes as your acceptance of the changes.\nIf you do not agree with the changes you should cancel your subscription (as explained below in section 14 of these terms and conditions) before the renewal date.",
+      "services": [
+        "jagex"
+      ],
+      "set": "set+service+and+topic",
+      "slug": "WKXNggcJhIQ",
+      "title": " Terms may be changed any time at their discretion, without notice to the user ",
+      "topics": [
+        "changes-notice"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": " Terms may be changed any time at their discretion, without notice to the user ",
+        "point": "bad",
+        "score": 70,
+        "tldr": "If you are a subscriber, Jagex will treat the first renewal date of your subscription after the changes as your acceptance of the changes."
+      }
+    },
+    "1554": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/eY7vFhbPOsE/discussion",
+      "id": "1554",
+      "needModeration": false,
+      "quoteDoc": "Cookies Policy",
+      "quoteEnd": 3498,
+      "quoteStart": 3303,
+      "quoteText": "<u>Necessary:</u>\n</strong> These Cookies are required in order for our services to operate.\nFor example, maintaining a logged in session.\nOur websites cannot function without these cookies.</li>",
+      "services": [
+        "jagex"
+      ],
+      "set": "set+service+and+topic",
+      "slug": "eY7vFhbPOsE",
+      "title": "This service requires first-party cookies, which are cookies that only belong to the domain of the service and not a third party.",
+      "topics": [
+        "track"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "This service requires first-party cookies, which are cookies that only belong to the domain of the service and not a third party.",
+        "point": "neutral",
+        "score": 10,
+        "tldr": ""
+      }
+    },
+    "1649": {
+      "discussion": "https://groups.google.com/d/topic/tosdr/MRYoI3efHpU/discussion",
+      "id": "1649",
+      "needModeration": false,
+      "quoteDoc": "Terms and Conditions",
+      "quoteEnd": 18115,
+      "quoteStart": 17914,
+      "quoteText": "restrict access to or delete virtual currency or anything acquired by means of virtual currency.\nThese actions may result in loss of real money paid in prohibited transactions, such as account trading.",
+      "services": [
+        "jagex"
+      ],
+      "set": "set+service+and+topic",
+      "slug": "MRYoI3efHpU",
+      "title": "The service can delete specific content without prior notice and without a reason",
+      "topics": [
+        "ownership"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can delete specific content without prior notice and without a reason",
+        "point": "blocker",
+        "score": 50,
+        "tldr": "Jagex may at any time and at their sole discretion delete virtual items and currencies bought with real money. "
+      }
+    }
+  },
+  "urls": [
+    "jagex.com"
+  ]
+}

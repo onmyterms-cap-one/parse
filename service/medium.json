@@ -1,0 +1,189 @@
+{
+  "alexa": 302,
+  "class": false,
+  "links": {
+    "Privacy Policy": {
+      "name": "Privacy Policy",
+      "url": "https://medium.com/policy/f03bf92035c9"
+    },
+    "Terms of Service": {
+      "name": "Terms of Service",
+      "url": "https://medium.com/policy/9db0094a1e0f"
+    }
+  },
+  "points": [
+    "5122",
+    "5123",
+    "5124",
+    "5125",
+    "5126",
+    "5130",
+    "5131",
+    "5133"
+  ],
+  "pointsData": {
+    "5122": {
+      "id": "5122",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 967,
+      "quoteStart": 903,
+      "quoteText": "You own the rights to the content you create and post on Medium.",
+      "services": [
+        "medium"
+      ],
+      "title": "You maintain ownership of your data (the content you create and post on Medium)",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "You maintain ownership of your data",
+        "point": "good",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5123": {
+      "id": "5123",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 4354,
+      "quoteStart": 4151,
+      "quoteText": "No children</strong>\n<p>Medium is only for people 13 years old and over.\nBy using Medium, you affirm that you are over 13.\nIf we learn someone under 13 is using Medium, we’ll terminate their account.</p>",
+      "services": [
+        "medium"
+      ],
+      "title": "This service is only available only for people 13 years old and over",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service is only available to users of a certain age",
+        "point": "neutral",
+        "score": 15,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5124": {
+      "id": "5124",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 5672,
+      "quoteStart": 5356,
+      "quoteText": "Disclaimer of warranty.</em> Medium provides the Services to you as is.\nYou use them at your own risk and discretion.\nThat means they don’t come with any warranty.\nNone express, none implied.\nNo implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.",
+      "services": [
+        "medium"
+      ],
+      "title": "The service is provided 'as is' and to be used at the users' sole risk",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service is provided 'as is' and to be used at the users' sole risk",
+        "point": "bad",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5125": {
+      "id": "5125",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 6074,
+      "quoteStart": 5685,
+      "quoteText": "Limitation of Liability</em>.\nMedium won’t be liable to you for any damages that arise from your using the Services.\nThis includes if the Services are hacked or unavailable.\nThis includes all types of damages (indirect, incidental, consequential, special or exemplary).\nAnd it includes all kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.</p>",
+      "services": [
+        "medium"
+      ],
+      "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5126": {
+      "id": "5126",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 6741,
+      "quoteStart": 6492,
+      "quoteText": "Choice of law and jurisdiction.</em> These Terms are governed by California law, without reference to its conflict of laws provisions.\nYou agree that any suit arising from the Services must take place in a court located in San Francisco, California.",
+      "services": [
+        "medium"
+      ],
+      "title": "The court of law governing the terms is in San Francisco, California",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The court of law governing the terms is in location X",
+        "point": "neutral",
+        "score": 0,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5130": {
+      "id": "5130",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 2361,
+      "quoteStart": 2307,
+      "quoteText": "We can remove any content you post for any reason.</p>",
+      "services": [
+        "medium"
+      ],
+      "title": "The service can delete specific content without prior notice and without a reason",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can delete specific content without prior notice and without a reason",
+        "point": "blocker",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5131": {
+      "id": "5131",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 2624,
+      "quoteStart": 2365,
+      "quoteText": "You can delete any of your posts, or your account, anytime.\nProcessing the deletion may take a little time, but we’ll do it as quickly as possible.\nWe may keep backup copies of your deleted post or account on our servers for up to 14 days after you delete it.",
+      "services": [
+        "medium"
+      ],
+      "title": "You can delete your content from this service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "You can delete your content from this service",
+        "point": "good",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5133": {
+      "id": "5133",
+      "needModeration": false,
+      "quoteDoc": "Terms of Service",
+      "quoteEnd": 4031,
+      "quoteStart": 3888,
+      "quoteText": "Crawling the Services is allowed if done in accordance with the provisions of our robots.txt file, but scraping the Services is prohibited.</p>",
+      "services": [
+        "medium"
+      ],
+      "title": "Users cannot scrape the website of the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Users cannot scrape the website of the service",
+        "point": "bad",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    }
+  },
+  "urls": [
+    "medium.com"
+  ]
+}
